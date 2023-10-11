@@ -350,4 +350,4 @@ async def points(ctx):
 
     await ctx.reply(f'You have {points} points' if points != 1 else f'You have {points} point')
 
-bot.run("MTA3NTIyMTgxNzY0OTc5MTA5OA.GxJAGR.L_hrYxo3f5ZZQj_9dmJjswQZAVYyPiQNoJqt0I")
+bot.run("********************************")
